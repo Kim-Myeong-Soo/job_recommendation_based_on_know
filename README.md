@@ -1,8 +1,8 @@
 # 대회 명 : KNOW기반 직업 추천 알고리즘 경진대회
 
-기간 : 2021/12/06~2022/01/28
-팀명 : thingsu
-결과 : 
+기간 : 2021/12/06~2022/01/28  
+팀명 : thingsu  
+결과 : Public/Private Board 4위 (F1-macro 0.74523)  
 
 ![](https://github.com/Kim-Myeong-Soo/job_recommendation_based_on_know/blob/6ccd02c4ed5a9b67c6b58eb3ac00668f4fc60d31/score.png)
 
