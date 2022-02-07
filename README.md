@@ -12,7 +12,8 @@
 - Hard Voting 방식으로 Ensemble
 
 ## Directory
-'''
+
+```bash
 ├── README.md 
 ├── asset
 │   ├── List_csv2017.csv
@@ -31,4 +32,4 @@
     ├── KNOW_2018.csv
     ├── KNOW_2019.csv
     └── KNOW_2020.csv
-'''
+``` 
